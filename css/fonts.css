@@ -1,0 +1,7 @@
+@font-face {
+    font-family: ;
+    src: local(), url("") format("");
+    font-weight: ;
+    font-display: swap; /*что бы рэндер шрифтов более корректно и быстро отображался */
+    font-style: ;
+}
